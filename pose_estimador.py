@@ -1,6 +1,6 @@
 import cv2
 
-file_name = "video.mp4"
+file_name = "video/video.mp4"
 
 cap = cv2.VideoCapture(file_name)
 scale = 0.5
